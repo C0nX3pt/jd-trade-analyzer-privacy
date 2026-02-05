@@ -1,0 +1,81 @@
+# Privacy Policy for JD Trade Analyzer
+
+**Last Updated: February 4th, 2026**
+
+## Introduction
+
+JD Trade Analyzer ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
+
+## Information We Collect
+
+### Information You Provide
+- **Team Data**: Team names, roster configurations, and player selections you create within the app
+- **Draft Picks**: Future draft pick information you add to your dynasty teams
+- **League Settings**: Your league format preferences (redraft/dynasty, scoring format, roster settings)
+
+### Information We Do NOT Collect
+- We do NOT collect personal information such as your name, email address, or phone number
+- We do NOT collect location data
+- We do NOT collect device identifiers for tracking
+- We do NOT use cookies or similar tracking technologies
+- We do NOT collect payment information (The subscription is hosted through the Apple App store or Google Play store)
+
+## How We Use Your Information
+
+Your data is used solely to:
+- Store your fantasy football teams and rosters
+- Provide trade analysis and team evaluations
+- Sync your teams across devices (if using the same device/browser)
+- Improve app functionality and user experience
+
+## Data Storage and Security
+
+- All user data is securely stored using Supabase, a secure cloud database service
+- Data is transmitted using industry-standard encryption (HTTPS/TLS)
+- We implement appropriate security measures to protect against unauthorized access
+- Your data is isolated and only accessible to you through the app
+
+## Data Sharing
+
+We do NOT:
+- Share your data with third parties
+- Sell your information to advertisers
+- Use your data for marketing purposes
+- Share data with analytics services
+
+## Your Data Rights
+
+You have the right to:
+- **Access**: View all data you've created in the app at any time
+- **Delete**: Delete any teams or data through the app's interface
+- **Export**: Request a copy of your data (contact us at [YOUR_EMAIL])
+
+## Data Retention
+
+- Your teams and roster data are retained as long as you use the app
+- You can delete your data at any time using the delete function in the app
+- Deleted data is permanently removed from our servers
+
+## Children's Privacy
+
+JD Trade Analyzer is intended for general audiences and does not knowingly collect information from children under 13. The app contains only sports-related content appropriate for all ages.
+
+## Third-Party Services
+
+We use the following third-party services:
+- **Supabase**: For secure data storage and backend services
+  - Supabase Privacy Policy: https://supabase.com/privacy
+
+## Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify users of any material changes by updating the "Last Updated" date at the top of this policy.
+
+## Contact Us
+
+If you have questions about this Privacy Policy or your data, please contact us at:
+
+**Email**: jd.trade.analyzer@gmail.com
+
+## Your Consent
+
+By using JD Trade Analyzer, you consent to this Privacy Policy.
